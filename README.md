@@ -31,7 +31,7 @@ git stash pop
 git merge (branchname)
 
 
-##Track changes
+## Track changes
 
 git add .
 
