@@ -1,48 +1,57 @@
-#Git Commands:
+# Git Commands:
 
-##New feature branch
+
+## New feature branch
 
 git flow feature start CLOUD7-
 
-##New bugfix branch 
+
+## New bugfix branch 
 
 git flow bugfix start CLOUD7-
 
-##Change branch
+
+## Change branch
 
 git checkout
 
-##Stashing changes
+
+## Stashing changes
 
 git stash
 
-#Unstash changes
+
+## Unstash changes
 
 git stash pop
 
-#Merge branch 
+
+## Merge branch 
 
 git merge (branchname)
 
 
-#Track changes
+##Track changes
 
 git add .
 
-##Commit 
+
+## Commit 
 
 git commit -m "message"
 
-#Pushing changes
+
+## Pushing changes
 
 git push
 
 
-#For cloning
+## For cloning
 
 git clone (url)
 
 
-#For initing git flow
+## For initing git flow
+
 git flow init
 
